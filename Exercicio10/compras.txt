@@ -1,0 +1,12 @@
+Produto: Algab
+Quantidade: 2
+Preço unitário: 10.0
+----------------------------
+Produto: fasd
+Quantidade: 3
+Preço unitário: 1.0
+----------------------------
+Produto: fadssfa
+Quantidade: 3
+Preço unitário: 2.0
+----------------------------
